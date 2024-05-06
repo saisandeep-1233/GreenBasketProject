@@ -25,6 +25,7 @@ Installation:
    npm install
 
 -> The same installation works for the admin part of the code.
+   The admin code will be running at  http://localhost:4200.
 
 -> Configure the backend: 
      install lombok create a database named greenbasketdb1.
