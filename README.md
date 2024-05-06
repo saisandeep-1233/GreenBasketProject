@@ -11,10 +11,9 @@ This project is a REST application built with React for the frontend and Spring 
 - Technologies used
 
 Getting started: 
-
-1)Node.js and npm installed. 
-2)Java and Maven for Spring Boot. 
-3)A compatible database (e.g., MySQL, PostgreSQL) with schema created.
+- Node.js and npm installed. 
+- Java and Maven for Spring Boot. 
+- A compatible database (e.g., MySQL, PostgreSQL) with schema created.
 
 Installation: 
 
@@ -25,7 +24,7 @@ Installation:
    npm install
 
 -> The same installation works for the admin part of the code.
-   The admin code will be running at  http://localhost:4200.
+    The admin code will be running at  http://localhost:4200.
 
 -> Configure the backend: 
      install lombok create a database named greenbasketdb1.
