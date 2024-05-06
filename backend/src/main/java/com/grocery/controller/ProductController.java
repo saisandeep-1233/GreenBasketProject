@@ -135,6 +135,4 @@ public class ProductController {
             return new ResponseEntity<>(allProds, HttpStatus.OK);
         }
     }
-
-
 }
