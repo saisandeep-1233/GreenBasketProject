@@ -38,7 +38,12 @@ npm run dev The React development server should start and open the application i
 
 Access the grocery application through the web browser. Perform operations on the items.
 
-=> Technologies Used - React - Spring Boot - Java - MySQL .
+=> Technologies Used:
+  - React
+   - Spring Boot
+   - Java
+   - MySQL
+
 
 => Contributing
 
