@@ -18,23 +18,22 @@ Getting started:
 
 Installation: 
 
--> Clone the repository: git clone https://github.com/ProjectExcelr/Green-Basket.git
+-> Clone the repository: 
+   git clone https://github.com/saisandeep-1233/GreenBasketProject.git
 
 -> Install frontend dependencies: 
-
    npm install
 
 -> The same installation works for the admin part of the code.
 
 -> Configure the backend: 
-
-  install lombok create a database named greenbasketdb1.
-  In application.properties file change the username and password.
-  Import the my sql dump data and the run the project.
-  The backend server should now be running on http://localhost:8080.
+     install lombok create a database named greenbasketdb1.
+     In application.properties file change the username and password.
+     Import the my sql dump data and the run the project.
+     The backend server should now be running on http://localhost:8080.
 
 -> Start the React frontend: 
-npm run dev The React development server should start and open the application in your default web browser at http://localhost:3000.
+   npm run dev The React development server should start and open the application in your default web browser at http://localhost:3000.
 
 Access the grocery application through the web browser. Perform operations on the items.
 
