@@ -4,11 +4,11 @@ This project is a REST application built with React for the frontend and Spring 
 
 => Table of Contents
 
-Getting started
-Installation
-Running the application
-Usage
-Technologies used.
+- Getting started
+- Installation
+- Running the application
+- Usage
+- Technologies used
 
 Getting started: 
 
