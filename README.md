@@ -30,7 +30,7 @@ Installation:
 - Configure the backend:
   - Install Lombok.
   - Create a database named greenbasketdb1.
-  - In the `application.properties` file, change the username and password.
+  - In the `application.properties` file, change the username and password for the database.
   - Import the MySQL dump data.
   - Run the project.
   - The backend server should now be running on `http://localhost:8080`.
