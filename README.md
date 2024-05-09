@@ -27,7 +27,8 @@ Installation:
     The admin code will be running at  http://localhost:4200.
 
 -> Configure the backend: 
-     install lombok create a database named greenbasketdb1.
+     install lombok 
+     create a database named greenbasketdb1.
      In application.properties file change the username and password.
      Import the my sql dump data and the run the project.
      The backend server should now be running on http://localhost:8080.
