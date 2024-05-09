@@ -27,11 +27,11 @@ Installation:
     The admin code will be running at  http://localhost:4200.
 
 -> Configure the backend: 
-     i) install lombok 
-     ii) create a database named greenbasketdb1.
-     iii) In application.properties file change the username and password.
-     iv) Import the my sql dump data and the run the project.
-     v) The backend server should now be running on http://localhost:8080.
+     - install lombok 
+     - create a database named greenbasketdb1.
+     - In application.properties file change the username and password.
+     - Import the my sql dump data and the run the project.
+     - The backend server should now be running on http://localhost:8080.
 
 -> Start the React frontend: 
    npm run dev The React development server should start and open the application in your default web browser at http://localhost:3000.
