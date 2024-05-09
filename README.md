@@ -37,7 +37,7 @@ Installation:
 
 - Start the React frontend:
   npm run dev
-  The React development server should start and open the application in your default web browser at http://localhost:3000.
+  The React development server should start and open the application in your default web browser at `http://localhost:3000`.
 
 Access the grocery application through the web browser. Perform operations on the items.
 
