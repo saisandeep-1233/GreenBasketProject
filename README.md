@@ -42,6 +42,7 @@ Installation:
 Access the grocery application through the web browser. Perform operations on the items.
 
 => Technologies Used:
+  - Javascript
   - React
   - Spring Boot
   - Java
