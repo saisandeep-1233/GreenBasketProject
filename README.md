@@ -1,4 +1,4 @@
-Grocery Application using React and Spring Boot <hr/>
+<h1>Grocery Application using React and Spring Boot</h1>
 
 This project is a simple e-commerce application built with React for the frontend and Spring Boot for the backend. It allows you to manage a collection of items. GreenBasket is a comprehensive online platform designed to provide users with convenient access to a wide range of grocery products and supplies. Our goal is to empower individuals to manage their daily needs efficiently from the comfort of their homes.
 
